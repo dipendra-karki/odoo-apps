@@ -8,7 +8,7 @@ Extends Odoo's file import system:
 """,
     'summary': 'Cleanup import data before saving into the database.',
     'depends': ['web', 'base_import'],
-    'version': '17.0.1.0.1',
+    'version': '15.0.1.0.1',
     'category': 'Productivity',
     'author': 'Dipendra Karki<tech.enthusiast23@gmail.com>',
     'data': [
